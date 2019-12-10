@@ -89,6 +89,8 @@ class Register extends React.Component {
                     zip_code: ''
                 })
 
+                console.log(this.state);
+
                 alert("User created! Please proceed to login page")
             }
             else if(response.status === 204){
