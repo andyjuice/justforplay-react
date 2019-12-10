@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/justforplay-react/precache-manifest.85bf32e42d0f822e9c1d79bf55fabefb.js"
+  "/justforplay-react/precache-manifest.1765ff34753b1b30103bedcbd53ced7f.js"
 );
 
 self.addEventListener('message', (event) => {

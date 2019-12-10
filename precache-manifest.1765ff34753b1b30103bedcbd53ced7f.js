@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0430610cb74a8baf71b81d561e0ffa99",
+    "revision": "df4964d27dfc7b48184f1681b1c2b01b",
     "url": "/justforplay-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/justforplay-react/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "2afd7e90c8a0ffc7d088",
+    "revision": "fe726c8270671dcc9f8b",
     "url": "/justforplay-react/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/justforplay-react/static/js/2.95764734.chunk.js"
   },
   {
-    "revision": "2afd7e90c8a0ffc7d088",
-    "url": "/justforplay-react/static/js/main.9830bb86.chunk.js"
+    "revision": "fe726c8270671dcc9f8b",
+    "url": "/justforplay-react/static/js/main.5aa6b369.chunk.js"
   },
   {
     "revision": "f6e0a1b5a8e6a271a8c5",
